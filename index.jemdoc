@@ -1,0 +1,69 @@
+# jemdoc:showsource
+= Chen-Lin Zhang(张晨麟)
+~~~
+{{<img align="left" src="IMG_1764.jpg"  width=140/></a>}} \n
+\n
+Chen-Lin Zhang, \n
+Ph.D., Algorithm Engineer in 4Paradigm, Beijing\n
+e-mail: [mailto:zhangcl@lamda.nju.edu.cn zhangcl@lamda.nju.edu.cn], *[mailto:zclnjucs@gmail.com zclnjucs@gmail.com]*, Please consider to use Gmail address first. \n
+\n
+
+== Biography
+I'm an Algorithm Engineer of the Computer Vision Group, [https://4paradigm.com/ 4Paradigm].\n
+Before my industry career, I received my B.Sc. degree in Computer Science and Technology in June 2016 from [http://www.nju.edu.cn Nanjing University].\n
+I obtained my Ph.D. degree in Dec 2021, under the supervision of [https://cs.nju.edu.cn/wujx/ Prof Jianxin Wu], and I was in the [http://www.lamda.nju.edu.cn LAMDA Group].\n
+
+From Dec. 2019 to Dec. 2020, I was visiting [https://www.biostat.wisc.edu/~yli/ Dr. Yin Li]'s group under the grant of China Scholarship Council (CSC).
+
+== Research Interests
+My research interests include: *Computer Vision* and *Machine Learning*. Currently, I'm focused on:
+- *Video Understanding*.
+- *Resource Constrained Deep Learning* in computer vision tasks.
+- Video related vision tasks.
+== Publications [https://scholar.google.com/citations?user=e-RfnkMAAAAJ \[Google Scholar Page\]]
+=== Manuscripts
+- L. Sui, *C.-L. Zhang* and J. Wu. Salvage of Supervision in Weakly Supervised Detection. [https://arxiv.org/abs/2106.04073 \[paper\]]
+- *C.-L. Zhang*, Y. Li and J. Wu. Weakly Supervised Foreground Learning for Weakly Supervised Localization and Detection. [https://arxiv.org/abs/2108.01785 \[paper\]]
+=== Conference Articles
+- R. Xu, *C.-L. Zhang*, P.-C. Wang, J. Lee, S. Mitra, S. Chaterji, Y. Li, S. Bagchi. ApproxDet: Content and Contention-Aware Approximate Object Detection for Mobiles. In Proceedings of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 20). [https://github.com/StarsThu2016/ApproxDet \[code page\]]
+- *C.-L. Zhang*, Y.-H. Cao and J. Wu. Rethinking the Route Towards Weakly Supervised Object Localization. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, WA (Virtual), USA. pp. 13460-13469. [papers/cvpr2020.pdf \[paper\]] [https://github.com/tzzcl/PSOL \[code page\]]
+- \*X.-S. Wei, *\*C.-L. Zhang*, L.-Q. Liu, J. Wu and C. Shen. Coarse-to-fine: A RNN-based hierarchical attention model for vehicle re-identification. In Proceedings of the 14th Asian Conference on Computer Vision (ACCV 2018), Perth, Australia, LNCS 11362, pp. 575-591. [papers/accv2018.pdf \[paper\]] [https://github.com/tzzcl/RNN-HA \[code page\]]
+- *C.-L. Zhang*, J.-H. Luo, X.-S. Wei and J. Wu. In Defense of Fully Connected Layers in Visual Representation Transfer. In Proceedings of the 18th Pacific-Rim Conference on Multimedia (PCM 2017), Harbin, China, 2017, LNCS 10736. pp, 807-817. [papers/pcm17.pdf \[paper\]]
+- \*X.-S. Wei, *\*C.-L. Zhang*, Y. Li, C.-W. Xie, J. Wu, C. Shen and Z.-H. Zhou. Deep Descriptor Transforming for Image Co-Localization. In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017), Melbourne, Australia, pp. 3048-3054. [papers/ijcai17.pdf \[paper\]] [https://github.com/tzzcl/DDT \[code page\]]
+- *C.-L. Zhang*, H. Zhang, X.-S. Wei and J. Wu. Deep Bimodal Regression for Apparent Personality Analysis. In Proceedings of the 14th European Conference on Computer Vision (ECCV’16) Workshops, Amsterdam, The Netherlands, 2016, LNCS 9913, pp. 311-324.[papers/eccvw16_APA.pdf \[paper\]] [https://github.com/tzzcl/ChaLearn-APA-Code \[code\]]
+
+=== Journal Articles
+- *C.-L. Zhang* and J. Wu. Improving CNN Linear Layers with Power Mean Non-Linearity. Pattern Recognition, 2019, 89: 12-21. [papers/pm2018_pr.pdf \[paper\]]
+- \*X.-S. Wei, *\*C.-L. Zhang*, J. Wu, C. Shen and Z.-H. Zhou. Unsupervised Object Discovery and Co-Localization by Deep Descriptor Transformation. Pattern Recognition, 2019, 88: 113-126. [papers/ddt_pr18.pdf \[paper\]] [https://github.com/tzzcl/DDT \[code page\]] [http://lamda.nju.edu.cn/weixs/project/DDT/DDT.html \[project page\]]
+- \*X.-S. Wei, *\*C.-L. Zhang*, H. Zhang and J. Wu. Deep Bimodal Regression of Personality Traits from Short Video Sequences. IEEE Transactions on Affective Computing (TAC), 2018, 9(3): 303-315. [papers/tac_17.pdf \[paper\]] [https://github.com/tzzcl/ChaLearn-APA-Code \[code\]] [http://lamda.nju.edu.cn/weixs/project/APA/APA.html \[project page\]]
+- G.-B Zhou, J.-X. Wu, *C.-L. Zhang* and Z.-H. Zhou. Minimal gated unit for recurrent neural networks. International Journal of Automation and Computing, 2016, 13(3): 226-234. [https://github.com/tzzcl/mgu \[code\]]
+=== Thesis
+- C.-L. Zhang. Researches on Visual Localization Tasks with Limited Labels.
+=== Technical Reports
+- *C.-L. Zhang*, X.-X. Liu and J. Wu. Towards Real-Time Action Recognition on Mobile Devices Using Deep Models. [https://arxiv.org/pdf/1906.07052.pdf \[paper\]]
+== Contests & Awards
+- Scholarship Awardee selected by China Scholarship Council (CSC), 2019.
+- A gold medal (the 6th place of all 2,293 teams) in the competition of [https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring Nature Conservancy Fisheries Monitoring (kaggle)], 2017.
+- Presidential Special Scholarship for first year Ph.D. Student in Nanjing University, 2016
+- *First place* in [http://gesture.chalearn.org/2016-looking-at-people-eccv-workshop-challenge  Apparent Personality Analysis] (in association with [http://www.eccv2016.org ECCV 2016]) as the *Team Leader*. [http://lamda.nju.edu.cn/weixs/project/APA/APA.html \[Project Page\]]
+- ACM/ICPC Asia Regional Contest Silver Medal, 2014 & 2015.
+
+== Services 
+
+=== Conference Reviewers
+- CVPR 2020\/2021, ECCV 2020, ICCV 2021, IJCAI 2021\/2022, AAAI 2019\/2021
+=== Journal Reviewers
+- [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858 IEEE Transactions on Dependable and Secure Computing (TDSC)]
+- [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369 IEEE Transactions on Affective Computing (TAC)]
+- [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234 IEEE Communication Letters]
+- [https://www.journals.elsevier.com/pattern-recognition Elsevier Journal of Pattern Recognition (PR)]
+- [https://tkdd.acm.org/ ACM Transactions on Knowledge Discovery from Data (TKDD)]
+=== Others
+- ACM/ICPC Team Assistant Coach, Nanjing University
+- Teaching Assistant For [http://cs.nju.edu.cn/wujx/teaching_PR.html Pattern Recognition 2018]
+- Teaching Assistant For Basics of Programming. (For undergraduate students in Institute of Artificial Intelligence, 2018)
+
+~~~
+{map}{raw}
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=xQwz&d=SMXlnbnyrHauYkbPLUlWLztCwpZpl2unURLqQ54mTOg"></script>
+~~~
