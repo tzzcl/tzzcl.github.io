@@ -4,7 +4,7 @@
 {{<img align="left" src="IMG_1764.jpg"  width=140/></a>}} \n
 \n
 Chen-Lin Zhang, \n
-Ph.D., Algorithm Engineer in 4Paradigm, Beijing\n
+Ph.D., Computer Vision Algorithm Engineer in 4Paradigm, Beijing\n
 e-mail: [mailto:zhangcl@lamda.nju.edu.cn zhangcl@lamda.nju.edu.cn], *[mailto:zclnjucs@gmail.com zclnjucs@gmail.com]*, Please consider to use Gmail address first. \n
 \n
 
@@ -15,6 +15,7 @@ I obtained my Ph.D. degree in Dec 2021, under the supervision of [https://cs.nju
 
 From Dec. 2019 to Dec. 2020, I was visiting [https://www.biostat.wisc.edu/~yli/ Dr. Yin Li]'s group under the grant of China Scholarship Council (CSC).
 
+We are hiring highly motivated interns/full-time algorithm engineers, If you have interests in my research topic, please contact me for more details!
 == Research Interests
 My research interests include: *Computer Vision* and *Machine Learning*. Currently, I'm focused on:
 - *Video Understanding*.
@@ -22,9 +23,10 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 - Video related vision tasks.
 == Publications [https://scholar.google.com/citations?user=e-RfnkMAAAAJ \[Google Scholar Page\]]
 === Manuscripts
-- L. Sui, *C.-L. Zhang* and J. Wu. Salvage of Supervision in Weakly Supervised Detection. [https://arxiv.org/abs/2106.04073 \[paper\]]
+- *C.-L. Zhang*, J. Wu and Y. Li. ActionFormer: Localizing Moments of Actions with Transformers. [https://arxiv.org/abs/2202.07925 \[paper\]] [https://github.com/happyharrycn/actionformer_release \[code page\]]
 - *C.-L. Zhang*, Y. Li and J. Wu. Weakly Supervised Foreground Learning for Weakly Supervised Localization and Detection. [https://arxiv.org/abs/2108.01785 \[paper\]]
 === Conference Articles
+- L. Sui, *C.-L. Zhang* and J. Wu. Salvage of Supervision in Weakly Supervised Detection. Accepted By CVPR 2022. [https://arxiv.org/abs/2106.04073 \[paper\]]
 - R. Xu, *C.-L. Zhang*, P.-C. Wang, J. Lee, S. Mitra, S. Chaterji, Y. Li, S. Bagchi. ApproxDet: Content and Contention-Aware Approximate Object Detection for Mobiles. In Proceedings of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 20). [https://github.com/StarsThu2016/ApproxDet \[code page\]]
 - *C.-L. Zhang*, Y.-H. Cao and J. Wu. Rethinking the Route Towards Weakly Supervised Object Localization. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, WA (Virtual), USA. pp. 13460-13469. [papers/cvpr2020.pdf \[paper\]] [https://github.com/tzzcl/PSOL \[code page\]]
 - \*X.-S. Wei, *\*C.-L. Zhang*, L.-Q. Liu, J. Wu and C. Shen. Coarse-to-fine: A RNN-based hierarchical attention model for vehicle re-identification. In Proceedings of the 14th Asian Conference on Computer Vision (ACCV 2018), Perth, Australia, LNCS 11362, pp. 575-591. [papers/accv2018.pdf \[paper\]] [https://github.com/tzzcl/RNN-HA \[code page\]]
@@ -39,8 +41,6 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 - G.-B Zhou, J.-X. Wu, *C.-L. Zhang* and Z.-H. Zhou. Minimal gated unit for recurrent neural networks. International Journal of Automation and Computing, 2016, 13(3): 226-234. [https://github.com/tzzcl/mgu \[code\]]
 === Thesis
 - C.-L. Zhang. Researches on Visual Localization Tasks with Limited Labels.
-=== Technical Reports
-- *C.-L. Zhang*, X.-X. Liu and J. Wu. Towards Real-Time Action Recognition on Mobile Devices Using Deep Models. [https://arxiv.org/pdf/1906.07052.pdf \[paper\]]
 == Contests & Awards
 - Scholarship Awardee selected by China Scholarship Council (CSC), 2019.
 - A gold medal (the 6th place of all 2,293 teams) in the competition of [https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring Nature Conservancy Fisheries Monitoring (kaggle)], 2017.
@@ -51,7 +51,7 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 == Services 
 
 === Conference Reviewers
-- CVPR 2020\/2021, ECCV 2020, ICCV 2021, IJCAI 2021\/2022, AAAI 2019\/2021
+- CVPR 2020\/2021\/2022, ECCV 2020\/2022, ICCV 2021, IJCAI 2021\/2022, AAAI 2019\/2021
 === Journal Reviewers
 - [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858 IEEE Transactions on Dependable and Secure Computing (TDSC)]
 - [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369 IEEE Transactions on Affective Computing (TAC)]
