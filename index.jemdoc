@@ -9,7 +9,7 @@ e-mail: [mailto:zhangcl@lamda.nju.edu.cn zhangcl@lamda.nju.edu.cn], *[mailto:zcl
 \n
 
 == Biography
-I'm an *Algorithm Engineer* of the Computer Vision Group, [https://4paradigm.com/ 4Paradigm].\n
+I'm an *Algorithm Researcher* of the Computer Vision Group, [https://4paradigm.com/ 4Paradigm].\n
 Before my industry career, I received my B.Sc. degree in Computer Science and Technology in June 2016 from [http://www.nju.edu.cn Nanjing University].\n
 I obtained my Ph.D. degree in Dec 2021, under the supervision of [https://cs.nju.edu.cn/wujx/ Prof Jianxin Wu], and I was in the [http://www.lamda.nju.edu.cn LAMDA Group].\n
 
@@ -23,6 +23,7 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 - Video related vision tasks.
 == Publications [https://scholar.google.com/citations?user=e-RfnkMAAAAJ \[Google Scholar Page\]]
 === Manuscripts
+- L. Sui, *C.-L. Zhang*, L. Gu, F. H. Minimum Efforts to Build an End-to-End Spatial-Temporal Action Detector [https://arxiv.org/abs/2206.03064 \[paper\]]
 - *C.-L. Zhang*, J. Wu and Y. Li. ActionFormer: Localizing Moments of Actions with Transformers. [https://arxiv.org/abs/2202.07925 \[paper\]] [https://github.com/happyharrycn/actionformer_release \[code page\]]
 - *C.-L. Zhang*, Y. Li and J. Wu. Weakly Supervised Foreground Learning for Weakly Supervised Localization and Detection. [https://arxiv.org/abs/2108.01785 \[paper\]]
 === Conference Articles
@@ -51,7 +52,7 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 == Services 
 
 === Conference Reviewers
-- CVPR 2020\/2021\/2022, ECCV 2020\/2022, ICCV 2021, IJCAI 2021\/2022, AAAI 2019\/2021
+- CVPR 2020\/2021\/2022, ECCV 2020\/2022, ICCV 2021, IJCAI 2021\/2022, AAAI 2019\/2021, Neurips 2021\/2022
 === Journal Reviewers
 - [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858 IEEE Transactions on Dependable and Secure Computing (TDSC)]
 - [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369 IEEE Transactions on Affective Computing (TAC)]
