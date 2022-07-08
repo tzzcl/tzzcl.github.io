@@ -4,7 +4,7 @@
 {{<img align="left" src="IMG_1764.jpg"  width=140/></a>}} \n
 \n
 Chen-Lin Zhang, \n
-Ph.D., Computer Vision Algorithm Engineer in 4Paradigm, Beijing\n
+Ph.D., Computer Vision Researcher in 4Paradigm, Beijing\n
 e-mail: [mailto:zclnjucs@gmail.com zclnjucs@gmail.com].\n
 \n
 
@@ -24,9 +24,9 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 == Publications [https://scholar.google.com/citations?user=e-RfnkMAAAAJ \[Google Scholar Page\]]
 === Manuscripts
 - L. Sui, *C.-L. Zhang*, L. Gu, F. H. Minimum Efforts to Build an End-to-End Spatial-Temporal Action Detector [https://arxiv.org/abs/2206.03064 \[paper\]]
-- *C.-L. Zhang*, J. Wu and Y. Li. ActionFormer: Localizing Moments of Actions with Transformers. [https://arxiv.org/abs/2202.07925 \[paper\]] [https://github.com/happyharrycn/actionformer_release \[code page\]]
 - *C.-L. Zhang*, Y. Li and J. Wu. Weakly Supervised Foreground Learning for Weakly Supervised Localization and Detection. [https://arxiv.org/abs/2108.01785 \[paper\]]
 === Conference Articles
+- *C.-L. Zhang*, J. Wu and Y. Li. ActionFormer: Localizing Moments of Actions with Transformers. Accepted By ECCV 2022, in press. [https://arxiv.org/abs/2202.07925 \[paper\]] [https://github.com/happyharrycn/actionformer_release \[code page\]]
 - L. Sui, *C.-L. Zhang* and J. Wu. Salvage of Supervision in Weakly Supervised Detection. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), New Orleans, LA, USA. pp. 14227-14236. [https://arxiv.org/abs/2106.04073 \[paper\]] [https://github.com/suilin0432/SoS-WSOD \[code page\]]
 - R. Xu, *C.-L. Zhang*, P.-C. Wang, J. Lee, S. Mitra, S. Chaterji, Y. Li, S. Bagchi. ApproxDet: Content and Contention-Aware Approximate Object Detection for Mobiles. In Proceedings of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 20). [https://github.com/StarsThu2016/ApproxDet \[code page\]]
 - *C.-L. Zhang*, Y.-H. Cao and J. Wu. Rethinking the Route Towards Weakly Supervised Object Localization. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, WA (Virtual), USA. pp. 13460-13469. [papers/cvpr2020.pdf \[paper\]] [https://github.com/tzzcl/PSOL \[code page\]]
@@ -43,6 +43,7 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 === Thesis
 - C.-L. Zhang. Researches on Visual Localization Tasks with Limited Labels.
 == Contests & Awards
+- Second Place in EPIC-Kitchens 2021/2022 Action Detection Challenges (in association with CVPR 2021/2022) as the *Team Leader*.
 - Scholarship Awardee selected by China Scholarship Council (CSC), 2019.
 - A gold medal (the 6th place of all 2,293 teams) in the competition of [https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring Nature Conservancy Fisheries Monitoring (kaggle)], 2017.
 - Presidential Special Scholarship for first year Ph.D. Student in Nanjing University, 2016
