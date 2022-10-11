@@ -20,12 +20,13 @@ We are hiring highly motivated interns/full-time algorithm engineers, If you hav
 My research interests include: *Computer Vision* and *Machine Learning*. Currently, I'm focused on:
 - *Video Understanding*.
 - *Resource Constrained Deep Learning* in computer vision tasks.
+- *Real-World, Low Cost Data Generation*.
 - Video related vision tasks.
 == Publications [https://scholar.google.com/citations?user=e-RfnkMAAAAJ \[Google Scholar Page\]]
 === Manuscripts
-- L. Sui, *C.-L. Zhang*, L. Gu, F. H. Minimum Efforts to Build an End-to-End Spatial-Temporal Action Detector [https://arxiv.org/abs/2206.03064 \[paper\]]
 - *C.-L. Zhang*, Y. Li and J. Wu. Weakly Supervised Foreground Learning for Weakly Supervised Localization and Detection. [https://arxiv.org/abs/2108.01785 \[paper\]]
 === Conference Articles
+- L. Sui, *C.-L. Zhang*, L. Gu, F. H. Minimum Efforts to Build an End-to-End Spatial-Temporal Action Detector. Accepted by WACV 2023. [https://arxiv.org/abs/2206.03064 \[paper\]]
 - *C.-L. Zhang*, J. Wu and Y. Li. ActionFormer: Localizing Moments of Actions with Transformers. Accepted By ECCV 2022, in press. [https://arxiv.org/abs/2202.07925 \[paper\]] [https://github.com/happyharrycn/actionformer_release \[code page\]]
 - L. Sui, *C.-L. Zhang* and J. Wu. Salvage of Supervision in Weakly Supervised Detection. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), New Orleans, LA, USA. pp. 14227-14236. [https://arxiv.org/abs/2106.04073 \[paper\]] [https://github.com/suilin0432/SoS-WSOD \[code page\]]
 - R. Xu, *C.-L. Zhang*, P.-C. Wang, J. Lee, S. Mitra, S. Chaterji, Y. Li, S. Bagchi. ApproxDet: Content and Contention-Aware Approximate Object Detection for Mobiles. In Proceedings of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 20). [https://github.com/StarsThu2016/ApproxDet \[code page\]]
@@ -53,8 +54,9 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 == Services 
 
 === Conference Reviewers
-- CVPR 2020\/2021\/2022, ECCV 2020\/2022, ICCV 2021, IJCAI 2021\/2022, AAAI 2019\/2021, Neurips 2021\/2022
+- CVPR 2020\/2021\/2022, ECCV 2020\/2022, ICCV 2021, IJCAI 2021\/2022, AAAI 2019\/2021, Neurips 2021\/2022, ICLR 2021\/2022
 === Journal Reviewers
+- [https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=34 IEEE Transactions on Pattern Analysis and Machine Intelligence (TDSC)]
 - [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858 IEEE Transactions on Dependable and Secure Computing (TDSC)]
 - [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369 IEEE Transactions on Affective Computing (TAC)]
 - [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234 IEEE Communication Letters]
