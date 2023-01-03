@@ -23,8 +23,8 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 - *Real-World, Low Cost Data Generation*.
 - Video related vision tasks.
 == Publications [https://scholar.google.com/citations?user=e-RfnkMAAAAJ \[Google Scholar Page\]]
-=== Manuscripts
-- *C.-L. Zhang*, Y. Li and J. Wu. Weakly Supervised Foreground Learning for Weakly Supervised Localization and Detection. [https://arxiv.org/abs/2108.01785 \[paper\]]
+# === Manuscripts
+# - *C.-L. Zhang*, Y. Li and J. Wu. Weakly Supervised Foreground Learning for Weakly Supervised Localization and Detection. [https://arxiv.org/abs/2108.01785 \[paper\]]
 === Conference Articles
 - L. Sui, *C.-L. Zhang*, L. Gu, F. H. Minimum Efforts to Build an End-to-End Spatial-Temporal Action Detector. Accepted by WACV 2023. [https://arxiv.org/abs/2206.03064 \[paper\]]
 - *C.-L. Zhang*, J. Wu and Y. Li. ActionFormer: Localizing Moments of Actions with Transformers. Accepted By ECCV 2022, in press. [https://arxiv.org/abs/2202.07925 \[paper\]] [https://github.com/happyharrycn/actionformer_release \[code page\]]
@@ -37,6 +37,7 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 - *C.-L. Zhang*, H. Zhang, X.-S. Wei and J. Wu. Deep Bimodal Regression for Apparent Personality Analysis. In Proceedings of the 14th European Conference on Computer Vision (ECCV’16) Workshops, Amsterdam, The Netherlands, 2016, LNCS 9913, pp. 311-324.[papers/eccvw16_APA.pdf \[paper\]] [https://github.com/tzzcl/ChaLearn-APA-Code \[code\]]
 
 === Journal Articles
+- *C.-L. Zhang*, Y. Li and J. Wu. Weakly Supervised Foreground Learning for Weakly Supervised Localization and Detection. Accepted by Pattern Recognition. In press. [https://arxiv.org/abs/2108.01785 \[paper\]]
 - *C.-L. Zhang* and J. Wu. Improving CNN Linear Layers with Power Mean Non-Linearity. Pattern Recognition, 2019, 89: 12-21. [papers/pm2018_pr.pdf \[paper\]]
 - \*X.-S. Wei, *\*C.-L. Zhang*, J. Wu, C. Shen and Z.-H. Zhou. Unsupervised Object Discovery and Co-Localization by Deep Descriptor Transformation. Pattern Recognition, 2019, 88: 113-126. [papers/ddt_pr18.pdf \[paper\]] [https://github.com/tzzcl/DDT \[code page\]] [http://lamda.nju.edu.cn/weixs/project/DDT/DDT.html \[project page\]]
 - \*X.-S. Wei, *\*C.-L. Zhang*, H. Zhang and J. Wu. Deep Bimodal Regression of Personality Traits from Short Video Sequences. IEEE Transactions on Affective Computing (TAC), 2018, 9(3): 303-315. [papers/tac_17.pdf \[paper\]] [https://github.com/tzzcl/ChaLearn-APA-Code \[code\]] [http://lamda.nju.edu.cn/weixs/project/APA/APA.html \[project page\]]
@@ -54,12 +55,14 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 == Services 
 
 === Conference Reviewers
-- CVPR 2020\/2021\/2022, ECCV 2020\/2022, ICCV 2021, IJCAI 2021\/2022, AAAI 2019\/2021, Neurips 2021\/2022, ICLR 2021\/2022
+- CVPR 2020\/2021\/2022\/2023, ECCV 2020\/2022, ICCV 2021, WACV 2023
+- IJCAI 2021\/2022\/2023, AAAI 2019\/2021, Neurips 2021\/2022, ICLR 2021\/2022\/2023
 === Journal Reviewers
-- [https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=34 IEEE Transactions on Pattern Analysis and Machine Intelligence (TDSC)]
+- [https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=34 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)]
 - [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858 IEEE Transactions on Dependable and Secure Computing (TDSC)]
 - [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369 IEEE Transactions on Affective Computing (TAC)]
 - [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234 IEEE Communication Letters]
+- [https://www.sciencedirect.com/journal/neurocomputing Neurocomputing]
 - [https://www.journals.elsevier.com/pattern-recognition Elsevier Journal of Pattern Recognition (PR)]
 - [https://tkdd.acm.org/ ACM Transactions on Knowledge Discovery from Data (TKDD)]
 === Others
