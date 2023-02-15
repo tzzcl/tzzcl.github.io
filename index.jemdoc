@@ -37,6 +37,7 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 - *C.-L. Zhang*, H. Zhang, X.-S. Wei and J. Wu. Deep Bimodal Regression for Apparent Personality Analysis. In Proceedings of the 14th European Conference on Computer Vision (ECCV’16) Workshops, Amsterdam, The Netherlands, 2016, LNCS 9913, pp. 311-324.[papers/eccvw16_APA.pdf \[paper\]] [https://github.com/tzzcl/ChaLearn-APA-Code \[code\]]
 
 === Journal Articles
+- L. Sui, *C.-L. Zhang* and J. Wu. Salvage of Supervision in Weakly Supervised Object Detection and Segmentation. Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence. In press. [https://github.com/suilin0432/SoS-WSOD \[code page\]]
 - *C.-L. Zhang*, Y. Li and J. Wu. Weakly Supervised Foreground Learning for Weakly Supervised Localization and Detection. Accepted by Pattern Recognition. In press. [https://arxiv.org/abs/2108.01785 \[paper\]]
 - *C.-L. Zhang* and J. Wu. Improving CNN Linear Layers with Power Mean Non-Linearity. Pattern Recognition, 2019, 89: 12-21. [papers/pm2018_pr.pdf \[paper\]]
 - \*X.-S. Wei, *\*C.-L. Zhang*, J. Wu, C. Shen and Z.-H. Zhou. Unsupervised Object Discovery and Co-Localization by Deep Descriptor Transformation. Pattern Recognition, 2019, 88: 113-126. [papers/ddt_pr18.pdf \[paper\]] [https://github.com/tzzcl/DDT \[code page\]] [http://lamda.nju.edu.cn/weixs/project/DDT/DDT.html \[project page\]]
@@ -55,7 +56,7 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 == Services 
 
 === Conference Reviewers
-- CVPR 2020\/2021\/2022\/2023, ECCV 2020\/2022, ICCV 2021, WACV 2023
+- CVPR 2020\/2021\/2022\/2023, ECCV 2020\/2022, ICCV 2021\/2023, WACV 2023
 - IJCAI 2021\/2022\/2023, AAAI 2019\/2021, Neurips 2021\/2022, ICLR 2021\/2022\/2023
 === Journal Reviewers
 - [https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=34 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)]
