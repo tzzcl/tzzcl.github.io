@@ -4,7 +4,7 @@
 {{<img align="left" src="IMG_1764.jpg"  width=140/></a>}} \n
 \n
 Chen-Lin Zhang, \n
-Ph.D., Computer Vision Researcher in 4Paradigm, Beijing\n
+Ph.D., Senior Computer Vision Researcher in 4Paradigm, Beijing\n
 e-mail: [mailto:zclnjucs@gmail.com zclnjucs@gmail.com].\n
 \n
 
@@ -13,7 +13,7 @@ I'm an *Algorithm Researcher* of the Computer Vision Group, [https://4paradigm.c
 Before my industry career, I received my B.Sc. degree in Computer Science and Technology in June 2016 from [http://www.nju.edu.cn Nanjing University].\n
 I obtained my Ph.D. degree in Dec 2021, under the supervision of [https://cs.nju.edu.cn/wujx/ Prof Jianxin Wu], and I was in the [http://www.lamda.nju.edu.cn LAMDA Group].\n
 
-From Dec. 2019 to Dec. 2020, I was visiting [https://www.biostat.wisc.edu/~yli/ Dr. Yin Li]'s group under the grant of China Scholarship Council (CSC).
+From Dec. 2019 to Dec. 2020, I was visiting [https://www.biostat.wisc.edu/~yli/ Dr. Yin Li]'s group.
 
 We are hiring highly motivated interns/full-time algorithm engineers, If you have interests in my research topic, please contact me for more details!
 == Research Interests
@@ -26,8 +26,8 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 # === Manuscripts
 # - *C.-L. Zhang*, Y. Li and J. Wu. Weakly Supervised Foreground Learning for Weakly Supervised Localization and Detection. [https://arxiv.org/abs/2108.01785 \[paper\]]
 === Conference Articles
-- L. Sui, *C.-L. Zhang*, L. Gu, F. H. Minimum Efforts to Build an End-to-End Spatial-Temporal Action Detector. Accepted by WACV 2023. [https://arxiv.org/abs/2206.03064 \[paper\]]
-- *C.-L. Zhang*, J. Wu and Y. Li. ActionFormer: Localizing Moments of Actions with Transformers. Accepted By ECCV 2022, in press. [https://arxiv.org/abs/2202.07925 \[paper\]] [https://github.com/happyharrycn/actionformer_release \[code page\]]
+- L. Sui, *C.-L. Zhang*, L. Gu, F. H. Minimum Efforts to Build an End-to-End Spatial-Temporal Action Detector. Hawaii, HI, USA. pp. 5999-6008. [https://arxiv.org/abs/2206.03064 \[paper\]]
+- *C.-L. Zhang*, J. Wu and Y. Li. ActionFormer: Localizing Moments of Actions with Transformers. In Proceedings of the 17 European Conference on Computer Vision (ECCV’22), Tel Aviv, Isreal. LNCS 13664, pp. 492-510. [https://arxiv.org/abs/2202.07925 \[paper\]] [https://github.com/happyharrycn/actionformer_release \[code page\]]
 - L. Sui, *C.-L. Zhang* and J. Wu. Salvage of Supervision in Weakly Supervised Detection. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), New Orleans, LA, USA. pp. 14227-14236. [https://arxiv.org/abs/2106.04073 \[paper\]] [https://github.com/suilin0432/SoS-WSOD \[code page\]]
 - R. Xu, *C.-L. Zhang*, P.-C. Wang, J. Lee, S. Mitra, S. Chaterji, Y. Li, S. Bagchi. ApproxDet: Content and Contention-Aware Approximate Object Detection for Mobiles. In Proceedings of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 20). [https://github.com/StarsThu2016/ApproxDet \[code page\]]
 - *C.-L. Zhang*, Y.-H. Cao and J. Wu. Rethinking the Route Towards Weakly Supervised Object Localization. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, WA (Virtual), USA. pp. 13460-13469. [papers/cvpr2020.pdf \[paper\]] [https://github.com/tzzcl/PSOL \[code page\]]
@@ -46,6 +46,7 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 === Thesis
 - C.-L. Zhang. Researches on Visual Localization Tasks with Limited Labels.
 == Contests & Awards
+- First Place in EPIC-Kitchens 2023 Action Detection Challenges (in association with CVPR 2023) as the *Team Leader*.
 - Second Place in EPIC-Kitchens 2021\/2022 Action Detection Challenges (in association with CVPR 2021\/2022) as the *Team Leader*.
 - Scholarship Awardee selected by China Scholarship Council (CSC), 2019.
 - A gold medal (the 6th place of all 2,293 teams) in the competition of [https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring Nature Conservancy Fisheries Monitoring (kaggle)], 2017.
