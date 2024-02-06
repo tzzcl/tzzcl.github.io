@@ -4,27 +4,28 @@
 {{<img align="left" src="IMG_1764.jpg"  width=140/></a>}} \n
 \n
 Chen-Lin Zhang, \n
-Ph.D., Senior Computer Vision Researcher in 4Paradigm, Beijing\n
+Ph.D., Moonshot AI, Beijing\n
 e-mail: [mailto:zclnjucs@gmail.com zclnjucs@gmail.com].\n
 \n
 
 == Biography
-I'm an *Algorithm Researcher* of the Computer Vision Group, [https://4paradigm.com/ 4Paradigm].\n
+I'm in the Multimodal Group, [https://www.moonshot.cn/ Moonshot AI].\n
+From Dec. 2021 to Jan. 2024, I was an Algorithm Researcher at [https://www.4paradigm.com/ 4Paradigm].\n
 Before my industry career, I received my B.Sc. degree in Computer Science and Technology in June 2016 from [http://www.nju.edu.cn Nanjing University].\n
 I obtained my Ph.D. degree in Dec 2021, under the supervision of [https://cs.nju.edu.cn/wujx/ Prof Jianxin Wu], and I was in the [http://www.lamda.nju.edu.cn LAMDA Group].\n
 
 From Dec. 2019 to Dec. 2020, I was visiting [https://www.biostat.wisc.edu/~yli/ Dr. Yin Li]'s group.
 
-We are hiring highly motivated interns/full-time algorithm engineers, If you have interests in my research topic, please contact me for more details!
+We are hiring highly motivated interns/full-time algorithm engineers and researchers, please contact me for more details!
 == Research Interests
 My research interests include: *Computer Vision* and *Machine Learning*. Currently, I'm focused on:
 - *Video Understanding*.
 - *Resource Constrained Deep Learning* in computer vision tasks.
-- *Real-World, Low Cost Data Generation*.
-- Video related vision tasks.
+- *Video Foundation Models*.
 == Publications [https://scholar.google.com/citations?user=e-RfnkMAAAAJ \[Google Scholar Page\]]
 # === Manuscripts
-# - *C.-L. Zhang*, Y. Li and J. Wu. Weakly Supervised Foreground Learning for Weakly Supervised Localization and Detection. [https://arxiv.org/abs/2108.01785 \[paper\]]
+- S. Liu, *C.-L. Zhang*, C. Zhao and B. Ghanem. End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames. [https://arxiv.org/abs/2311.17241 \[paper\]]
+
 === Conference Articles
 - L. Sui, *C.-L. Zhang*, L. Gu, F. H. Minimum Efforts to Build an End-to-End Spatial-Temporal Action Detector. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV'23), Waikola, HI, USA. pp. 5999-6008. [https://arxiv.org/abs/2206.03064 \[paper\]]
 - *C.-L. Zhang*, J. Wu and Y. Li. ActionFormer: Localizing Moments of Actions with Transformers. In Proceedings of the 17th European Conference on Computer Vision (ECCV’22), Tel Aviv, Isreal. LNCS 13664, pp. 492-510. [https://arxiv.org/abs/2202.07925 \[paper\]] [https://github.com/happyharrycn/actionformer_release \[code page\]]
@@ -57,7 +58,7 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 == Services 
 
 === Conference Reviewers
-- CVPR 2020\/2021\/2022\/2023, ECCV 2020\/2022, ICCV 2021\/2023, WACV 2023
+- CVPR 2020\/2021\/2022\/2023\/2024, ECCV 2020\/2022, ICCV 2021\/2023, WACV 2023
 - IJCAI 2021\/2022\/2023, AAAI 2019\/2021, Neurips 2021\/2022, ICLR 2021\/2022\/2023
 === Journal Reviewers
 - [https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=34 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)]
