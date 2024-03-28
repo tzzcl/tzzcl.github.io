@@ -24,9 +24,11 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 - *Video Foundation Models*.
 == Publications [https://scholar.google.com/citations?user=e-RfnkMAAAAJ \[Google Scholar Page\]]
 # === Manuscripts
-- S. Liu, *C.-L. Zhang*, C. Zhao and B. Ghanem. End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames. [https://arxiv.org/abs/2311.17241 \[paper\]]
 
 === Conference Articles
+- F. Hu, *C.-L. Zhang*, J. Guo, X.-S. Wei, L. Zhao, A. Xu and L. Gao. An Asymmetric Augmented Self-Supervised Learning Method for Unsupervised Fine-Grained Image Hashing. Accepted By CVPR 2024. 
+- T. Zhou, H. Li, Z. Wang, Ao Luo, *C.-L. Zhang*, J. Li, B. Zeng and S. Liu. RecDiffusion: Rectangling for Image Stitching with Diffusion Models. Accepted By CVPR 2024.
+- S. Liu, *C.-L. Zhang*, C. Zhao and B. Ghanem. End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames. Accepted By CVPR 2024. [https://arxiv.org/abs/2311.17241 \[paper\]]
 - L. Sui, *C.-L. Zhang*, L. Gu, F. H. Minimum Efforts to Build an End-to-End Spatial-Temporal Action Detector. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV'23), Waikola, HI, USA. pp. 5999-6008. [https://arxiv.org/abs/2206.03064 \[paper\]]
 - *C.-L. Zhang*, J. Wu and Y. Li. ActionFormer: Localizing Moments of Actions with Transformers. In Proceedings of the 17th European Conference on Computer Vision (ECCV’22), Tel Aviv, Isreal. LNCS 13664, pp. 492-510. [https://arxiv.org/abs/2202.07925 \[paper\]] [https://github.com/happyharrycn/actionformer_release \[code page\]]
 - L. Sui, *C.-L. Zhang* and J. Wu. Salvage of Supervision in Weakly Supervised Detection. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), New Orleans, LA, USA. pp. 14227-14236. [https://arxiv.org/abs/2106.04073 \[paper\]] [https://github.com/suilin0432/SoS-WSOD \[code page\]]
