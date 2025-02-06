@@ -19,16 +19,18 @@ From Dec. 2019 to Dec. 2020, I was visiting [https://www.biostat.wisc.edu/~yli/ 
 We are hiring highly motivated interns/full-time algorithm engineers and researchers, please contact me for more details!
 == Research Interests
 My research interests include: *Computer Vision* and *Machine Learning*. Currently, I'm focused on:
-- *Video Understanding*.
+- *Video Generation for Understanding/Video Understanding for Generation*.
+- *Video related LLM*. Especially temporal localization related Video-LLM.
 - *Resource Constrained Deep Learning* in computer vision tasks.
-- *Video Foundation Models*.
 == Publications [https://scholar.google.com/citations?user=e-RfnkMAAAAJ \[Google Scholar Page\]]
 # === Manuscripts
 
 === Conference Articles
-- F. Hu, *C.-L. Zhang*, J. Guo, X.-S. Wei, L. Zhao, A. Xu and L. Gao. An Asymmetric Augmented Self-Supervised Learning Method for Unsupervised Fine-Grained Image Hashing. Accepted By CVPR 2024. 
-- T. Zhou, H. Li, Z. Wang, Ao Luo, *C.-L. Zhang*, J. Li, B. Zeng and S. Liu. RecDiffusion: Rectangling for Image Stitching with Diffusion Models. Accepted By CVPR 2024.
-- S. Liu, *C.-L. Zhang*, C. Zhao and B. Ghanem. End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames. Accepted By CVPR 2024. [https://arxiv.org/abs/2311.17241 \[paper\]]
+- Z. Yang, H. Li, M. Hong, *C.-L. Zhang*, J. Li, S. Liu. Single Image Rolling Shutter Removal with Diffusion Models. Accepted By AAAI 2025. [https://arxiv.org/abs/2407.02906 \[paper\]]
+- S. Guo, L. Sui, *C.-L. Zhang*, Z. Chen, W. Yang, L. Duan. A Unified Image Compression Method for Human Perception and Multiple Vision Tasks. Accepted in ECCV 2024. [https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09009.pdf \[paper\]]
+- F. Hu, *C.-L. Zhang*, J. Guo, X.-S. Wei, L. Zhao, A. Xu and L. Gao. An Asymmetric Augmented Self-Supervised Learning Method for Unsupervised Fine-Grained Image Hashing. Accepted By CVPR 2024. [https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_An_Asymmetric_Augmented_Self-Supervised_Learning_Method_for_Unsupervised_Fine-Grained_Image_CVPR_2024_paper.pdf \[paper\]]
+- T. Zhou, H. Li, Z. Wang, Ao Luo, *C.-L. Zhang*, J. Li, B. Zeng and S. Liu. RecDiffusion: Rectangling for Image Stitching with Diffusion Models. Accepted By CVPR 2024. [https://arxiv.org/abs/2403.19164 \[paper\]]
+- S. Liu, *C.-L. Zhang*, C. Zhao and B. Ghanem. End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames. Accepted By CVPR 2024. [https://arxiv.org/abs/2311.17241 \[paper\]] [https://github.com/sming256/OpenTAD \[code page\]]
 - L. Sui, *C.-L. Zhang*, L. Gu, F. H. Minimum Efforts to Build an End-to-End Spatial-Temporal Action Detector. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV'23), Waikola, HI, USA. pp. 5999-6008. [https://arxiv.org/abs/2206.03064 \[paper\]]
 - *C.-L. Zhang*, J. Wu and Y. Li. ActionFormer: Localizing Moments of Actions with Transformers. In Proceedings of the 17th European Conference on Computer Vision (ECCV’22), Tel Aviv, Isreal. LNCS 13664, pp. 492-510. [https://arxiv.org/abs/2202.07925 \[paper\]] [https://github.com/happyharrycn/actionformer_release \[code page\]]
 - L. Sui, *C.-L. Zhang* and J. Wu. Salvage of Supervision in Weakly Supervised Detection. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), New Orleans, LA, USA. pp. 14227-14236. [https://arxiv.org/abs/2106.04073 \[paper\]] [https://github.com/suilin0432/SoS-WSOD \[code page\]]
@@ -49,6 +51,7 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 === Thesis
 - C.-L. Zhang. Researches on Visual Localization Tasks with Limited Labels.
 == Contests & Awards
+- First Place in EPIC-Kitchens Action Recognition, Action Detection, and Audio-Based Interaction Detection tasks/First Place in Moment Queries task of the Ego4D 2024 Challenge as the *Team Leader*.
 - First Place in EPIC-Kitchens 2023 Action Detection Challenges (in association with CVPR 2023) as the *Team Leader*.
 - Second Place in EPIC-Kitchens 2021\/2022 Action Detection Challenges (in association with CVPR 2021\/2022) as the *Team Leader*.
 - Scholarship Awardee selected by China Scholarship Council (CSC), 2019.
@@ -60,8 +63,8 @@ My research interests include: *Computer Vision* and *Machine Learning*. Current
 == Services 
 
 === Conference Reviewers
-- CVPR 2020\/2021\/2022\/2023\/2024, ECCV 2020\/2022, ICCV 2021\/2023, WACV 2023
-- IJCAI 2021\/2022\/2023, AAAI 2019\/2021, Neurips 2021\/2022, ICLR 2021\/2022\/2023
+- CVPR 2020\~2025, ECCV 2020\/2022\/2024, ICCV 2021\/2023, WACV 2023
+- IJCAI 2021\/2022\/2023\/2025 (SPC), AAAI 2019\/2021, Neurips 2021\~2024, ICLR 2021\~2025
 === Journal Reviewers
 - [https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=34 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)]
 - [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858 IEEE Transactions on Dependable and Secure Computing (TDSC)]
